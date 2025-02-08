@@ -23,6 +23,13 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
 * **MonoGame.Extended**
   * `Extensions to make MonoGame more awesome.`
   * <https://github.com/craftworkgames/MonoGame.Extended>
+    
+  * **Monogamer**
+  * `WIP Extension for monogame, adding a component system and debugging tools using Imgui.`
+ 
+    <https://github.com/Mierenik/monogamer>
+ 
+    
 
 * **Apos.Spatial**
   * `Spatial partitioning library for MonoGame.`
